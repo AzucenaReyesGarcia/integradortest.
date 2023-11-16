@@ -8,7 +8,7 @@
 
 ## Xavier Amed Guerrero hernandez
 
-https://github.com/XavierGuerreroo
+[github de xavier](https://github.com/XavierGuerreroo)
 
 ## Daniel Lopez Gonzalez
 
