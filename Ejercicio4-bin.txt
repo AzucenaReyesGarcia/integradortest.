@@ -1,0 +1,8 @@
+# repositorio del proyecto integrador
+https://github.com/fcuadrosgithub/integrador-primero
+
+# Repositorio de Daniel
+[github Daniel](https://github.com/LopezDanielgod)
+
+# Ejercicio 4
+Dado un numero decimal entero positivo o negativo reregresar su enteroquivalente en binario.
