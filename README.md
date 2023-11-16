@@ -6,7 +6,7 @@
 
 ## Diego Lozano Camargo
 
-https://github.com/D1egoXD
+[Github de Diego](https://github.com/D1egoXD)
 
 ## Xavier Amed Guerrero Hernandez 
 
