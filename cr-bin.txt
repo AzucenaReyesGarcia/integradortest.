@@ -1,0 +1,5 @@
+# repositorio del proyecto integrador
+https://github.com/fcuadrosgithub/integrador-primero
+
+# ejercicio 3 
+Dada una circunferencia con centro en el punto C con coordenadas (x1 , y1 ) y radio r , evaluar si un punto T con coordenadas (x2 , y2 ) esta dentro del area de la circunferencia.
