@@ -10,7 +10,7 @@
 
 ## Daniel Lopez Gonzalez 
 
-https://github.com/LopezDanielgod
+[github de Daniel](https://github.com/LopezDanielgod)
 
 ## Kleyder Murillo Martinez 
 
